@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Omar G",
+    "longName": "Pebble Timer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Pebble Timer",
+    "uuid": "4c15ea43-1764-46d3-8d3e-6bc318ac77a8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
